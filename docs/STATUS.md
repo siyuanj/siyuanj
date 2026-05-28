@@ -18,6 +18,7 @@
 - Simplified the profile README to a short text-first layout inspired by compact academic profile READMEs.
 - Removed the contribution snake workflow because the minimal README no longer uses it.
 - Refined the README bullets by removing the Zotero tools mention and replacing the fun fact with sports interests.
+- Added light emoji markers to the README heading and bullets while keeping the layout minimal.
 
 ## Open Issues
 
