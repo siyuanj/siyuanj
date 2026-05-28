@@ -14,8 +14,8 @@ Before non-trivial changes, read:
 
 - Keep `README.md` concise, scannable, and profile-oriented.
 - Prefer stable links and public information.
-- Use external dynamic SVG services sparingly so the profile still loads quickly.
-- Keep the contribution snake workflow in `.github/workflows/snake.yml` if the contribution trail section remains in the README.
+- Use external dynamic SVG services sparingly so the profile stays calm and loads quickly.
+- Keep the profile closer to a concise README than a visual dashboard.
 
 ## Documentation Updates
 

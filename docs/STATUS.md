@@ -4,7 +4,7 @@
 
 - This repository is the special GitHub profile repository for `siyuanj`.
 - `README.md` is the public GitHub profile content.
-- `.github/workflows/snake.yml` generates contribution snake SVG files on the `output` branch.
+- The profile intentionally uses a minimal README style with only one homepage badge.
 
 ## Recent Progress
 
@@ -15,12 +15,13 @@
   - Featured repositories and technical toolbox badges.
   - GitHub stats, trophies, and contribution trail sections.
 - Added repository workflow notes in `AGENTS.md`.
+- Simplified the profile README to a short text-first layout inspired by compact academic profile READMEs.
+- Removed the contribution snake workflow because the minimal README no longer uses it.
 
 ## Open Issues
 
-- The contribution snake image will appear only after the GitHub Actions workflow runs successfully and publishes the `output` branch.
-- Dynamic third-party cards may occasionally fail if the external services are temporarily unavailable.
+- GitHub may take a short time to refresh the rendered profile after a push.
 
 ## Next Recommended Step
 
-- After the first push, check the GitHub profile page and Actions tab. If the profile feels too visually busy, simplify the stats/trophy sections.
+- Check the rendered GitHub profile and adjust wording if the tone should be more formal or more personal.
